@@ -1,0 +1,125 @@
+body{
+	margin : 0px;
+	padding: 0px;
+	background: #FCE4EB;
+	font-size: 28pt
+	font-weight:300;
+	font-family:Nanum Gothic;
+	color: #000000
+	overflow:hidden;
+}
+h1, h2, h3{
+	margin: 0;
+	padding:0;
+}
+
+p,ul{
+	margin-top:0px
+}
+
+p{
+	line-geight:190%;
+}
+ul{
+list-style:none;
+}
+#Contact
+{
+	background:#0F0F0F;
+	color:#FCE4EB;
+}
+.container{
+	width:1200px;
+	display:block;
+	margin:0 auto;
+}
+.column1{
+	display:block;
+	margin:20 auto;
+}
+#header-wrapper{
+	background-size:100%;
+	padding : 6em 0em 2em 0em;
+	background: #FFFBFC
+}
+#header-wrapper h1{
+	font-size:3em;
+	font-family: "Nanum Gothic";
+	overflow:hidden;
+}
+#header-wrapper a{
+	overflow:hidden;
+	text-decoration: none;
+	font-family: "Nanum Gothic";
+}
+#menu{
+
+	height:80px;
+	
+}
+#menu ul{
+	overflow:hidden;
+	list-style:none;
+	text-align:center;
+	line-height:normal;
+	text-decoration: none;
+	margin:0;
+	padding : 0px 0px 0px 0px;
+}
+#menu li{
+	display:inline-block;
+}
+#menu a{
+	display:block;
+	letter-spacing:1px;
+	padding: 0px 40px;
+	text-decoration:none;
+	text-align;center;
+	font-size: 1.2em;
+	line-height:90px;
+	border: none;
+}
+.page_item1:hover{
+	background: #F183A2;
+}
+#page{
+	position: relative;
+	overflow: hidden;
+	padding : 1em 0em 1em 0em;
+}
+#aboutme,#bookrevview,#myfavorite,#knowledgebase{
+	overflow:hidden;
+	width:300
+}
+#aboutme,#bookreview{
+	overflow:hidden;
+	float:left;
+	margin-right:24px;
+}
+#myfavorite{
+	overflow:hidden;
+	float:left;
+}
+#knowledgebase{
+	overflow:hidden;
+	float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,88 @@
+body{
+	margin : 0px;
+	padding: 0px;
+	background: #FCE4EB;
+	font-size: 28pt
+	font-weight:300;
+	font-family:Nanum Gothic;
+	color: #000000
+	overflow:hidden;
+}
+#Contact
+{
+	background:#0F0F0F;
+	color:#FCE4EB;
+	padding: 0px
+}
+#header-wrapper{
+	background-size:100%;
+	padding : 6em 0em 2em 0em;
+	background: #FFFBFC
+}
+#header-wrapper h1{
+	font-size:3em;
+	font-family: "Nanum Gothic";
+	overflow:hidden;
+}
+#header-wrapper a{
+	overflow:hidden;
+	text-decoration: none;
+	font-family: "Nanum Gothic";
+}
+#menu ul{
+	overflow:hidden;
+	list-style:none;
+	text-align:center;
+	line-height:normal;
+	text-decoration: none;
+	margin:0;
+	padding : 0px 0px 0px 0px;
+}
+#menu li{
+	display:inline-block;
+}
+#menu a{
+	display:block;
+	letter-spacing:1px;
+	padding: 0px 40px;
+	text-decoration:none;
+	text-align;center;
+	font-size: 1.2em;
+	line-height:90px;
+	border: none;
+}
+.page_item1:hover{
+	background: #F183A2;
+}
+#profilephoto{
+	padding: 0px;
+}
+#td,#th{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
